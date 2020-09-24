@@ -3,7 +3,8 @@
 <p style="display: flex; justify-contect: space-between;">
   <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
-Hi, My name is Mohammad Muazam. I am a student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering.
+Hi, My name is Mohammad Muazam. I am a student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. 
+Currently I am a Web Developer at WebArch and Think Digital.
 
 ## Hello World!! 😃
 - 💬 Ask me about anything an everything.
