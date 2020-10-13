@@ -24,6 +24,17 @@ Currently I am a Web Developer at WebArch and Think Digital.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm1025web&layout=compact)">
   </p>
 
+<p align="center">
+  <b>Let's connect and chat! Open for collaborations.</b>
+
+  <p align="center">
+    <a href="https://twitter.com/mmuazam98" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/mohammad-muazam-129838190" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:m.muazam.99@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+  </p>
+
+</p>
 
 
 ![](https://komarev.com/ghpvc/?username=mm1025web&color=blue)
+
