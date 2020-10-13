@@ -16,8 +16,13 @@ Currently I am a Web Developer at WebArch and Think Digital.
 
 ![mm1025web's github stats](https://github-readme-stats.vercel.app/api?username=mm1025web&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm1025web&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm1025web&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact)-->
+## Programming Languages used in my projects :
 
+  <p align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm1025web&layout=compact)">
+  </p>
 
 
 
