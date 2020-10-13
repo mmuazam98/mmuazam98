@@ -1,15 +1,16 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<p style="display: flex; justify-contect: space-between;">
+<p align="center">
   <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+  <p>Hi, My name is Mohammad Muazam. I am a student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering.  
+Currently I am a Web Developer at <a href="https://www.webarchsrm.com/">WebArch</a> and <a href="https://www.think-digital.in/">Think Digital</a>.</p>
 </p>
-Hi, My name is Mohammad Muazam. I am a student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering.  
-Currently I am a Web Developer at WebArch and Think Digital.
+
 
 ## Hello World!! 😃
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything and everything.
 - 📫 LinkedIn profile: [Mohammad Muazam](https://www.linkedin.com/in/mohammad-muazam-129838190/)
-- 🎯 Portfolio site: [Portfolio](http://mmuazam98.netlify.app/)
+- 🎯 Portfolio site: [mmuazam98.netlify.app](http://mmuazam98.netlify.app/)
 - 🔔 Instagram:- [m.muazam.98](https://www.instagram.com/m.muazam.98/)
 
 
@@ -25,7 +26,7 @@ Currently I am a Web Developer at WebArch and Think Digital.
   </p>
 
 <p align="center">
-  <b>Let's connect and chat! Open for collaborations.</b>
+  <b>Open for collaborations.</b>
 
   <p align="center">
     <a href="https://twitter.com/mmuazam98" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
