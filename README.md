@@ -15,18 +15,18 @@ Currently I am a Web Developer at <a href="https://www.webarchsrm.com/">WebArch<
 
 
 
-<!--![mm1025web's github stats](https://github-readme-stats.vercel.app/api?username=mm1025web&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<!--![mm1025web's github stats](https://github-readme-stats.vercel.app/api?username=mmuazam98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 -->
 <a href="https://github.com/ampsteric/ampsteric" align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mm1025web&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmuazam98&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm1025web&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmuazam98&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact)-->
 
 
 ## Programming Languages used in my projects :
 
   <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm1025web&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuazam98&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </p>
 
 <p align="center">
