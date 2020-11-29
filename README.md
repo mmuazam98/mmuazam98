@@ -3,7 +3,7 @@
 <p align="center">
   <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
   <p>Hi, My name is Mohammad Muazam. I am a student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering.  
-Currently I am a Web Developer at <a href="https://www.webarchsrm.com/">WebArch</a> and <a href="https://www.think-digital.in/">Think Digital</a>.</p>
+Technical Associate at SRM HackerEarth || Web Developer at <a href="https://www.webarchsrm.com/">WebArch</a> and <a href="https://www.think-digital.in/">Think Digital</a>.</p>
 </p>
 
 
