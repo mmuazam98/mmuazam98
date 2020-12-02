@@ -26,7 +26,7 @@ Technical Associate at SRM HackerEarth || Web Developer at <a href="https://www.
 ## Programming Languages used in my projects :
 
   <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuazam98&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuazam98&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=css" />
   </p>
 
 <p align="center">
