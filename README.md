@@ -12,7 +12,7 @@ Technical Associate at SRM HackerEarth || Web Developer at <a href="https://www.
 - 📫 LinkedIn profile: [Mohammad Muazam](https://www.linkedin.com/in/mohammad-muazam-129838190/)
 - 🎯 Portfolio site: [mmuazam98.netlify.app](http://mmuazam98.netlify.app/)
 - 🔔 Instagram:- [m.muazam.98](https://www.instagram.com/m.muazam.98/)
-
+- 😋 Codepen:- [mmuazam99](https://codepen.io/mmuazam99)
 
 
 <!--![mm1025web's github stats](https://github-readme-stats.vercel.app/api?username=mmuazam98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
