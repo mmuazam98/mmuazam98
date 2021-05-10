@@ -1,25 +1,25 @@
-<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center"> 𝐇ello Coders! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center">
-  <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-  <p>Hi, My name is Mohammad Muazam. I am a student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering.  
-Technical Associate at SRM HackerEarth || Web Developer at <a href="https://www.webarchsrm.com/">WebArch</a> and <a href="https://www.think-digital.in/">Think Digital</a>.</p>
+  <p>Hi, I am Mohammad Muazam, a student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. Looking forward to become a Full Stack Web Developer. </p>
+</p>
+<p>
+  Currently working as a Technical Associate at <a href="https://www.srmhackerearth.in/">SRM HackerEarth</a> & a Web Developer at <a href="https://www.webarchsrm.com/">WebArch</a> and <a href="https://www.think-digital.in/">Think Digital</a>.
 </p>
 
+##
+- LinkedIn profile: [Mohammad Muazam](https://www.linkedin.com/in/mohammad-muazam-129838190/)
+- Portfolio site: [bit.ly/mmuazam98](http://bit.ly/mmuazam98)
+- Instagram:- [m.muazam.98](https://www.instagram.com/m.muazam.98/)
+- Codepen:- [mmuazam99](https://codepen.io/mmuazam99)
 
-## Hello World!! 😃
-- 💬 Ask me about anything and everything.
-- 📫 LinkedIn profile: [Mohammad Muazam](https://www.linkedin.com/in/mohammad-muazam-129838190/)
-- 🎯 Portfolio site: [bit.ly/mmuazam98](http://bit.ly/mmuazam98)
-- 🔔 Instagram:- [m.muazam.98](https://www.instagram.com/m.muazam.98/)
-- 😋 Codepen:- [mmuazam99](https://codepen.io/mmuazam99)
-
-
-<!--![mm1025web's github stats](https://github-readme-stats.vercel.app/api?username=mmuazam98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
--->
-<a href="https://github.com/ampsteric/ampsteric" align="right">
+<!--<a href="https://github.com/ampsteric/ampsteric" align="right">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmuazam98&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+</a>-->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmuazam98&theme=monokai) 
+
+
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmuazam98&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact)-->
 
 
