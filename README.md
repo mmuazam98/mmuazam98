@@ -8,8 +8,8 @@
 </p>
 
 ##
-- LinkedIn profile: [Mohammad Muazam](https://www.linkedin.com/in/mohammad-muazam-129838190/)
-- Portfolio site: [bit.ly/mmuazam98](http://bit.ly/mmuazam98)
+- LinkedIn: [Mohammad Muazam](https://www.linkedin.com/in/mohammad-muazam-129838190/)
+- Website: [bit.ly/mmuazam98](http://bit.ly/mmuazam98)
 - Instagram:- [m.muazam.98](https://www.instagram.com/m.muazam.98/)
 - Codepen:- [mmuazam99](https://codepen.io/mmuazam99)
 
