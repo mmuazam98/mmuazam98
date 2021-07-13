@@ -44,9 +44,12 @@
 
 ## Most Used Languages:
 
-  <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuazam98&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=html" />
-  </p>
+
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuazam98&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=html" /> -->
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmuazam98&theme=monokai) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmuazam98&theme=monokai&hide=html)
+
 
 <p align="center">
   <b>Open for collaborations.</b>
