@@ -8,16 +8,38 @@
 </p>
 
 ##
-- LinkedIn: [Mohammad Muazam](https://www.linkedin.com/in/mohammad-muazam-129838190/)
-- Website: [bit.ly/mmuazam98](http://bit.ly/mmuazam98)
-- Instagram:- [m.muazam.98](https://www.instagram.com/m.muazam.98/)
-- Codepen:- [mmuazam99](https://codepen.io/mmuazam99)
 
+<p align="center">
+  <a href="https://bit.ly/mmuazam98/">
+    <img src="https://mmuazam98.netlify.app/images/MZ2.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://www.linkedin.com/in/mohammad-muazam-129838190/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+    </a><span>&nbsp;</span>
+  <a href="https://twitter.com/mmuazam98">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://www.instagram.com/m.muazam.98/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="mailto:m.muazam.99@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://codepen.io/mmuazam99/">
+    <img src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  
+</p>
 <!--<a href="https://github.com/ampsteric/ampsteric" align="right">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmuazam98&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>-->
 
+<p align="center">
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmuazam98&theme=monokai) 
+  
+</p>
+
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmuazam98&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact)-->
@@ -54,11 +76,7 @@
 <p align="center">
   <b>Open for collaborations.</b>
 
-  <p align="center">
-    <a href="https://twitter.com/mmuazam98" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/mohammad-muazam-129838190" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:m.muazam.99@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-  </p>
+
 
 </p>
 
