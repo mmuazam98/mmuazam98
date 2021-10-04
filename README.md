@@ -28,6 +28,9 @@
   <a href="https://codepen.io/mmuazam99/">
     <img src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="3.5%"/>
   </a><span>&nbsp;</span>
+   <a href="https://cssbattle.dev/player/mmuazam98">
+    <img src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png"  width="3.5%"/>
+  </a><span>&nbsp;</span>
   
 </p>
 <!--<a href="https://github.com/ampsteric/ampsteric" align="right">
