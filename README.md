@@ -4,7 +4,7 @@
   <p>Hi, I am Mohammad Muazam, a student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. Looking forward to become a Full Stack Web Developer. </p>
 </p>
 <p>
-  Currently working as an an Intern at <a href="http://www.quadbtech.com//">QuadB Tech</a> || Web Domain Lead at <a href="https://www.think-digital.in/">Think Digital</a> ||  Web Developer at <a href="https://www.webarchsrm.com/">WebArch</a> || Technical Associate at <a href="https://www.srmhackerearth.in/">SRM HackerEarth</a>.
+  Currently working as an an Intern at <a href="http://www.quadbtech.com/">QuadB Tech</a> || Web Domain Lead at <a href="https://www.think-digital.in/">Think Digital</a> ||  Web Developer at <a href="https://www.webarchsrm.com/">WebArch</a> || Technical Associate at <a href="https://www.srmhackerearth.in/">SRM HackerEarth</a>.
 </p>
 
 ##
