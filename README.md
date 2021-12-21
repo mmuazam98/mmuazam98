@@ -10,7 +10,7 @@
 ##
 
 <p align="center">
-  <a href="https://bit.ly/mmuazam98/">
+  <a href="https://muazam.live/">
     <img src="https://mmuazam98.netlify.app/images/MZ2.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/mohammad-muazam-129838190/">
