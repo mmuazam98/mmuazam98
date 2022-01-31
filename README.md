@@ -33,9 +33,8 @@
   </a><span>&nbsp;</span>
   
 </p>
-<!--<a href="https://github.com/ampsteric/ampsteric" align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmuazam98&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>-->
+
+
 
 <p align="center">
   
@@ -66,6 +65,9 @@
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
+## Streak 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmuazam98&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Most Used Languages:
 
