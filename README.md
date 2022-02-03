@@ -65,9 +65,9 @@
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
-## Streak 
+## 🔥🔥 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmuazam98&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmuazam98&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Most Used Languages:
 
