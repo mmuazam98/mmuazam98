@@ -4,7 +4,7 @@
  <p>Hi, I am Mohammad Muazam, a student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I am a self taught developer with a passion for problem solving and learning new technologies. I am currently working as an SDE at <a href="https://www.squadcast.com">Squadcast</a>.</p>
 </p>
 <p>
-  Web Domain Lead at <a href="https://www.think-digital.in/">Think Digital</a> ||  Web Developer at <a href="https://www.webarchsrm.com/">WebArch</a> || Technical Associate at <a href="https://www.srmhackerearth.in/">SRM HackerEarth</a>.
+  Mentor at <a href="https://www.think-digital.in/">Think Digital</a> ||  Web Developer at <a href="https://www.webarchsrm.com/">WebArch</a> || Technical Associate at <a href="https://www.srmhackerearth.in/">SRM HackerEarth</a>.
 </p>
 
 ##
@@ -36,6 +36,9 @@
 <!-- profile summary -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmuazam98&theme=monokai" alt="Summary"/> 
+ 
+ [![wakatime](https://wakatime.com/badge/user/30574102-58a5-4bea-9613-72e1ffbbca89.svg)](https://wakatime.com/@30574102-58a5-4bea-9613-72e1ffbbca89)
+
 </p>
 
 ## Tools & Technologies
