@@ -1,10 +1,12 @@
 <h2 align="center"> 𝐇ello Coders! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center">
- <p>Hi, I am Mohammad Muazam, a student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I am a self taught developer with a passion for problem solving and learning new technologies. I am currently working as an SDE at <a href="https://www.squadcast.com">Squadcast</a>.</p>
-</p>
-<p>
-  Mentor at <a href="https://www.think-digital.in/">Think Digital</a> ||  Web Developer at <a href="https://www.webarchsrm.com/">WebArch</a> || Technical Associate at <a href="https://www.srmhackerearth.in/">SRM HackerEarth</a>.
+ <p>👋 Hello, world! I'm Mohammad Muazam, a passionate software engineer and a problem solver.</p>
+ <p>🎓 Graduated in 2023 from SRM IST, where I earned my Bachelor's degree in Computer Science and Engineering (CSE).</p>
+ <p>💻 Currently, I'm working as an SDE-1 at <a href="https://www.squadcast.com">Squadcast</a>, where I contribute to building innovative solutions for monitoring and incident response.</p>
+ <p>🚀 I'm enthusiastic about exploring new technologies, software development, and collaborating on exciting projects.</p>
+ <p>🌱 Always eager to learn and grow, I enjoy challenges that push me beyond my comfort zone.</p>
+ <p>📧 Feel free to reach out for collaborations, discussions, or just to say hi! Let's connect and make the tech world a better place together. 😊 #coding #softwareengineering #opensource</p>
 </p>
 
 ##
