@@ -3,7 +3,7 @@
 <p align="center">
  <p>👋 Hello, world! I'm Mohammad Muazam, a passionate software engineer and a problem solver.</p>
  <p>🎓 Graduated in 2023 from SRM IST, where I earned my Bachelor's degree in Computer Science and Engineering (CSE).</p>
- <p>💻 Currently, I'm working as an SDE-1 at <a href="https://www.squadcast.com">Squadcast</a>, where I contribute to building innovative solutions for monitoring and incident response.</p>
+ <p>💻 Currently, I'm working as an SDE-2 at <a href="https://www.squadcast.com">Squadcast</a>, where I contribute to building innovative solutions for monitoring and incident response.</p>
  <p>🚀 I'm enthusiastic about exploring new technologies, software development, and collaborating on exciting projects.</p>
  <p>🌱 Always eager to learn and grow, I enjoy challenges that push me beyond my comfort zone.</p>
  <p>📧 Feel free to reach out for collaborations, discussions, or just to say hi! Let's connect and make the tech world a better place together. 😊 #coding #softwareengineering #opensource</p>
