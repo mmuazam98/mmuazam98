@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/m.muazam.98/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="mailto:m.muazam.99@gmail.com">
+  <a href="mailto:contact@muazam.me">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="https://codepen.io/mmuazam99/">
